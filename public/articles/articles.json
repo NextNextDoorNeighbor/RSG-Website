@@ -1,0 +1,40 @@
+{
+    "requestForArticles": [
+        {
+            "filename": "CFP- Communicative Perspectives on Ghana’s 2020 Electoral Politics.pdf"
+        },
+        {
+            "filename": "COVID_19 CFP.pdf"
+        }
+    ],
+    "articles": [
+        {
+            "name": "Analysis of Rhetoric around COVID19",
+            "date": "2020-11-09",
+            "author": "Jon Doe",
+            "synopsis": "A brief summary regarding the article goes here. The following text is meant to add length to give a better depiction of what a full article abstract/synopsis/summary will look like. The container for these will be able to expand or contract for varying length desciptions.",
+            "url": "https://www.google.com"
+        },
+        {
+            "name": "Analysis of Rhetoric around Political Views",
+            "date": "2020-11-09",
+            "author": "Jon Doe",
+            "synopsis": "A brief summary regarding the article goes here. The following text is meant to add length to give a better depiction of what a full article abstract/synopsis/summary will look like. The container for these will be able to expand or contract for varying length desciptions.",
+            "url": "https://www.google.com"
+        },
+        {
+            "name": "Rhetoric in everyday life",
+            "date": "2020-11-09",
+            "author": "Jon Doe",
+            "synopsis": "A brief summary regarding the article goes here. The following text is meant to add length to give a better depiction of what a full article abstract/synopsis/summary will look like. The container for these will be able to expand or contract for varying length desciptions.",
+            "url": "https://www.google.com"
+        },
+        {
+            "name": "Analysis of Rhetoric around COVID19 ---",
+            "date": "2020-11-09",
+            "author": "Jon Doe",
+            "synopsis": "A brief summary regarding the article goes here. The following text is meant to add length to give a better depiction of what a full article abstract/synopsis/summary will look like. The container for these will be able to expand or contract for varying length desciptions.",
+            "url": "https://www.google.com"
+        }
+    ]
+}

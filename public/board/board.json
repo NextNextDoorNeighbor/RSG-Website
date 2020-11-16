@@ -1,0 +1,24 @@
+{
+    "board": [
+        {
+            "name": "Jon Doe",
+            "role": "President",
+            "image": "images/jon-doe.png"
+        },
+        {
+            "name": "Jon Doe",
+            "role": "Trustee",
+            "image": "images/jon-doe.png"
+        },
+        {
+            "name": "Jon Doe",
+            "role": "Secratary",
+            "image": "images/jon-doe.png"
+        },
+        {
+            "name": "Jon Doe",
+            "role": "Vice President",
+            "image": "images/jon-doe.png"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "events": [
+        {
+            "name": "Annual RSA Seminar on new Rhetoric",
+            "date": "2020-11-09",
+            "host": "University of Ghana",
+            "synopsis": "Here you would add a brief summary of the event: speakers, content, and other related information. ",
+            "url": "https://www.google.com"
+        },
+        {
+            "name": "Panel on Rhetoric in Ghana Politics",
+            "date": "2020-11-09",
+            "host": "University of Ghana",
+            "synopsis": "Here you would add a brief summary of the event: speakers, content, and other related information. ",
+            "url": "https://www.google.com"
+        },
+        {
+            "name": "Seminar on the Analysis of Rhetoric in Everyday Situations",
+            "date": "2020-11-09",
+            "host": "University of Ghana",
+            "synopsis": "Here you would add a brief summary of the event: speakers, content, and other related information. ",
+            "url": "https://www.google.com"
+        },
+        {
+            "name": "Annual RSA Seminar on new Rhetoric ---",
+            "date": "2020-11-09",
+            "host": "University of Ghana",
+            "synopsis": "Here you would add a brief summary of the event: speakers, content, and other related information. ",
+            "url": "https://www.google.com"
+        }
+    ]
+}
